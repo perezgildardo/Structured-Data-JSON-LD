@@ -1,0 +1,115 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "ImageGallery",
+    "name": "Antarctica Gallery Vacation", 
+    "dateCreated": "2015-02-05T08:00:00+08:00",
+    "datePublished": "2015-02-05T08:00:00+08:00", 
+    "dateModified": "2015-02-05T08:00:00+08:00", 
+    "description": "Explore Safety Harbor Resort and Spa's board Fun Vacation Pics", 
+    "url": "https://www.domain.com/gallery/antarctica-gallery-vacation.html", 
+    "headline": "Antarctica Gallery Vacation",
+    "keywords": "vacation, resort, antartica, photos", 
+    "image": "https://domain.com/is/image/content/main-image.jpg",
+    "primaryImageOfPage": "hhttps://domain.com/image/content/main-image.jpg",
+    "alternativeHeadline": "Antarctica Gallery Vacation",
+    "mainEntityOfPage": {  
+	  "@type": "ImageGallery",
+		  "image":  [  
+			    {
+				  "@context": "http://schema.org",
+					"@type": "ImageObject",
+					"dateCreated": "2015-02-05T08:00:00+08:00",
+					"datePublished": "2015-02-05T08:00:00+08:00", 
+					"dateModified": "2015-02-05T08:00:00+08:00",
+					"description": "I took this picture while on vacation last year.",
+					"name": "Inquisitive penguin chick staring",
+    				"headline": "Inquisitive penguin chick staring",
+					"url": "https://www.domain.com/image/content/image-about-penguin-chick.jpg", 
+    				"interactionStatistic": [
+    					{
+	    					"@type": "InteractionCounter",
+							"interactionService": {
+								"@type": "Website",
+								"name": "Facebook",
+								"url": "https://www.facebook.com"
+							},
+							"interactionType": "http://schema.org/LikeAction",
+	      					"userInteractionCount": "1024" 
+    					},
+    					{
+							"@type": "InteractionCounter",
+							"interactionType": "http://schema.org/ListenAction",
+							"userInteractionCount": "11700"
+    					}
+				    ]
+			    },
+			    {
+				    "@context": "http://schema.org",
+					"@type": "ImageObject",
+					"dateCreated": "2015-02-05T08:00:00+08:00",
+					"datePublished": "2015-02-05T08:00:00+08:00", 
+					"dateModified": "2015-02-05T08:00:00+08:00",
+					"description": "I took this second picture while on vacation last year.",
+					"name": "Second Inquisitive penguin chick staring",
+    				"headline": "Second Inquisitive penguin chick staring",
+					"url": "https://www.domain.com/image/content/image-about-penguin-chick-2.jpg", 
+    				"interactionStatistic": [
+    					{
+	    					"@type": "InteractionCounter",
+							"interactionService": {
+								"@type": "Website",
+								"name": "Facebook",
+								"url": "https://www.facebook.com"
+							},
+							"interactionType": "http://schema.org/LikeAction",
+	      					"userInteractionCount": "124" 
+    					},
+    					{
+							"@type": "InteractionCounter",
+							"interactionType": "http://schema.org/ListenAction",
+							"userInteractionCount": "100"
+    					}
+				    ]
+			    },
+			    {
+				  "@context": "http://schema.org",
+					"@type": "ImageObject",
+					"dateCreated": "2015-02-05T08:00:00+08:00",
+					"datePublished": "2015-02-05T08:00:00+08:00", 
+					"dateModified": "2015-02-05T08:00:00+08:00",
+					"description": "I took this second picture while on vacation last year.",
+					"name": "Third Inquisitive penguin chick staring",
+    				"headline": "Third Inquisitive penguin chick staring",
+					"url": "https://www.domain.com/image/content/image-about-penguin-chick-3.jpg", 
+    				"interactionStatistic": [
+    					{
+	    					"@type": "InteractionCounter",
+							"interactionService": {
+								"@type": "Website",
+								"name": "Facebook",
+								"url": "https://www.facebook.com"
+							},
+							"interactionType": "http://schema.org/LikeAction",
+	      					"userInteractionCount": "1224" 
+    					},
+    					{
+							"@type": "InteractionCounter",
+							"interactionType": "http://schema.org/ListenAction",
+							"userInteractionCount": "1003"
+    					}
+				    ]
+			    },
+	    ] 
+	},
+    "publisher": {
+        "@type":"Organization",
+        "name":"Domain Title",
+        "logo": {
+            "@type": "ImageObject", "url": "https://www.domain.com/designs/logo-of-company.png", 
+            "width": "228", 
+            "height": "40"
+        }
+    }
+}
+</script>
